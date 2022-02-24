@@ -1,1 +1,20 @@
-# dsa.vbs
+Msgbox("shoma")
+Msgbox("tahte")
+Msgbox("didbani hastid")
+Msgbox("en barname ghabel bargasht nist")
+Msgbox("shoma alan tahte nazar sazman hai amniati hastid")
+Msgbox("shoma mitvanid baraye hefze amniateton behtar ast")
+Msgbox("10120100021212 => ino toye notepad benevisid")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+Msgbox("neveshti?")
+do
+Msgbox("hala tam shodeh id ")
+loop
